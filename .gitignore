@@ -1,0 +1,17 @@
+#Eclipse#
+.metadata\
+.apt_generated\
+.apt_generated_tests\
+.metadata\
+.mvn\
+.settings\
+.classpath
+.project
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
